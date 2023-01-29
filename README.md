@@ -4,6 +4,10 @@
 
 ## Setup: clone this repo to your local computer, open index.html, run using live server extension
 
+## Contributions by Stephen Zook
+
+## No known bugs
+
 
 # TDD:
 
